@@ -88,4 +88,5 @@ Integrasi antara Machine Learning dan AI Generatif (IBM Granite) memungkinkan an
 Model mampu:
 - Mengidentifikasi faktor utama dalam popularitas game.
 - Memberikan insight otomatis yang relevan dan actionable bagi pengembang.
+
 Proyek ini menunjukkan bagaimana AI dapat digunakan untuk strategi pengembangan game berbasis data di ekosistem Steam.
