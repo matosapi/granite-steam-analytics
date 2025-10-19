@@ -1,7 +1,7 @@
   
 # 🎮 Steam Game Popularity Analysis using Machine Learning & IBM Granite AI
 
-## 🧭 Project Overview
+## Project Overview
 Proyek ini bertujuan untuk **memprediksi popularitas game di platform Steam** berdasarkan faktor seperti **genre, kategori, harga, dan jumlah DLC**, serta menghasilkan **insight otomatis menggunakan model AI IBM Granite**.  
 
 Proyek ini menggabungkan dua pendekatan utama:
@@ -80,3 +80,12 @@ print(response)
 - Maintain frequent updates and support accessibility features
 ```
 
+---
+
+## Kesimpulan
+
+Integrasi antara Machine Learning dan AI Generatif (IBM Granite) memungkinkan analisis yang tidak hanya prediktif tetapi juga interpretatif.
+Model mampu:
+- Mengidentifikasi faktor utama dalam popularitas game.
+- Memberikan insight otomatis yang relevan dan actionable bagi pengembang.
+Proyek ini menunjukkan bagaimana AI dapat digunakan untuk strategi pengembangan game berbasis data di ekosistem Steam.
